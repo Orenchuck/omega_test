@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cba33a21a1573702e48cfc7ec825ea2",
+    "revision": "bd6bf023933b231b72adbc09b340ea26",
     "url": "/omega_test/index.html"
   },
   {
-    "revision": "6c6e532832a95276a19e",
-    "url": "/omega_test/static/css/main.e75ff0ab.chunk.css"
+    "revision": "83db75897b0b61e82237",
+    "url": "/omega_test/static/css/main.59946362.chunk.css"
   },
   {
     "revision": "b880f3ef5f65e97f32c1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omega_test/static/js/2.561ab259.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c6e532832a95276a19e",
-    "url": "/omega_test/static/js/main.9a1749bd.chunk.js"
+    "revision": "83db75897b0b61e82237",
+    "url": "/omega_test/static/js/main.b2247af4.chunk.js"
   },
   {
     "revision": "b011cb2105302beb1cc5",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2de3bb3d3ac6c452d2d47ed3a422b780",
     "url": "/omega_test/static/media/4.2de3bb3d.png"
+  },
+  {
+    "revision": "a1adee6e59a50e48e364c2d9e33d7ce5",
+    "url": "/omega_test/static/media/banner.a1adee6e.png"
   }
 ]);
