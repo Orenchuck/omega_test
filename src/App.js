@@ -14,7 +14,7 @@ class App extends Component {
   return (
         <div className="App">
           <Switch>
-            <Route history={history} exact path='/' component={Main} />
+            <Route history={history} exact path='/omega_test' component={Main} />
             <Route history={history} path='/inner' component={Inner} />
           </Switch>
         </div>
